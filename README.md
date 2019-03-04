@@ -5,7 +5,7 @@
 <p>Per a la realització d'aquesta pràctica s'han seguit els següents passos:</p>
  <ul>
        <li>
-        <p>En primer lloc em vaig descarregar varies capes disponibles al Departament d'Interior de la Generalitat de catalunya.</p>
+        <p>En primer lloc em vaig descarregar varies capes disponibles al Departament d'Interior de la Generalitat de Catalunya.</p>
         </h2>
         </li>
         <li>
