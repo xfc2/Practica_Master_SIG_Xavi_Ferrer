@@ -1,4 +1,4 @@
-<h1>Pràctica Màster SIG</p>
+<h1>Pràctica Màster SIG</h1>
 
 <p>Autor: Xavier Ferrer Castells</p>
 <p>En aquesta pràctica es mostren els incendis forestals succeïts a Catalunya durant la primera dècada del segle XXI</p>
